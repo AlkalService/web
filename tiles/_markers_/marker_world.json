@@ -1,0 +1,26 @@
+{"sets": {"redprotect.markerset": {"hide": true,"circles": {}
+,"areas": {"tepokman_1@world": {"fillcolor": "#00FF00","ytop": 0.50,"color": "#00FF00","markup": false,"x": [-281.50,-281.50,-241.50,-241.50]
+,"weight": 1,"z": [-166.50,-132.50,-132.50,-166.50]
+,"ybottom": 256.50,"label": "tepokman_1","opacity": 0.80,"fillopacity": 0.35,"desc": "Name: <span style=\"font-weight:bold\">tepokman_1<\/span><br \/>Leaders: <span style=\"font-weight:bold\">[tepokman]<\/span><br \/>Admins: <span style=\"font-weight:bold\">[none]<\/span><br \/>Area: <span style=\"font-weight:bold\">1435<\/span>"}
+,"Pasar@world": {"fillcolor": "#00FF00","ytop": 0.50,"color": "#00FF00","markup": false,"x": [1700.50,1700.50,1708.50,1708.50]
+,"weight": 1,"z": [-1807.50,-1796.50,-1796.50,-1807.50]
+,"ybottom": 256.50,"label": "Pasar","opacity": 0.80,"fillopacity": 0.35,"desc": "Name: <span style=\"font-weight:bold\">Pasar<\/span><br \/>Leaders: <span style=\"font-weight:bold\">[anaktentara]<\/span><br \/>Admins: <span style=\"font-weight:bold\">[none]<\/span><br \/>Area: <span style=\"font-weight:bold\">108<\/span>"}
+,"tepokman_0@world": {"fillcolor": "#00FF00","ytop": 0.50,"color": "#00FF00","markup": false,"x": [10165.50,10165.50,10254.50,10254.50]
+,"weight": 1,"z": [1000.50,1137.50,1137.50,1000.50]
+,"ybottom": 256.50,"label": "tepokman_0","opacity": 0.80,"fillopacity": 0.35,"desc": "Name: <span style=\"font-weight:bold\">tepokman_0<\/span><br \/>Leaders: <span style=\"font-weight:bold\">[tepokman]<\/span><br \/>Admins: <span style=\"font-weight:bold\">[anaktentara]<\/span><br \/>Area: <span style=\"font-weight:bold\">12420<\/span>"}
+}
+,"label": "RedProtect","markers": {"tepokman_1@world": {"markup": false,"x": -262.00,"icon": "house","y": 128.00,"dim": "16x16","z": -150.00,"label": "tepokman_1"}
+,"Pasar@world": {"markup": false,"x": 1704.00,"icon": "house","y": 128.00,"dim": "16x16","z": -1802.00,"label": "Pasar"}
+,"tepokman_0@world": {"markup": false,"x": 10209.00,"icon": "house","y": 128.00,"dim": "16x16","z": 1068.00,"label": "tepokman_0"}
+}
+,"lines": {}
+,"layerprio": 10,"minzoom": 0,"showlabels": true}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": -144.00,"icon": "world","y": 63.00,"dim": "16x16","z": 224.00,"label": "Spawn"}
+,"1": {"markup": true,"maxzoom": 1,"x": 0.00,"icon": "diamond","y": 108.00,"dim": "16x16","z": 0.00,"label": "SpawnPoint","minzoom": 10000000}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1647158737258}
